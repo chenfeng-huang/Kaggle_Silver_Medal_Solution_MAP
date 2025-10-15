@@ -1,0 +1,4 @@
+row_id,QuestionId,QuestionText,MC_Answer,StudentExplanation
+36696,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{1}{3} \),"I think that 1/3 is the answer, as it's the simplest form of 3/9."
+36697,31772,What fraction of the shape is not shaded? Give your answer in its simplest form. [Image: A triangle split into 9 equal smaller triangles. 6 of them are shaded.],\( \frac{3}{6} \),i think this answer is because 3 triangles are white and 6 triangle are blue.
+36698,32835,Which number is the greatest?,\( 6.2 \),because the 2 makes it higher than the others.
